@@ -1,3 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/phil/dotfiles'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/camstruthers/dotfiles'
+let g:netrw_dirhist_2='/Users/camstruthers/.rvm/gems/ruby-2.2.1@deploy/gems/selenium-webdriver-2.45.0'
