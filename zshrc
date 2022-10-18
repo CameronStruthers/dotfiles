@@ -54,3 +54,6 @@ export PATH
 
 source ~/.nvm/nvm.sh
 
+# RVM path
+source ~/.rvm/scripts/rvm
+

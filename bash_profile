@@ -49,4 +49,4 @@ fi
 source ~/.nvm/nvm.sh
 
 # RVM path
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+source ~/.rvm/scripts/rvm
